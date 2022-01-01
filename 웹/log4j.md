@@ -43,9 +43,6 @@ LOG4J_FORMAT_MSG_NO_LOOKUPS=true
 
 Log4j 보안 취약점 동작 원리 및 조치 방법
 
-
-
-devocean.sk.com
 https://www.youtube.com/watch?v=kwS3twdVsko 
 
 
